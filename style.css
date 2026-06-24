@@ -10,6 +10,7 @@
 body {
     font-family: 'Roboto Mono', monospace;
     line-height: 1.6;
+    padding: 40px 0;
     color: #333333;
     background-color: #f9f9f9;
 }
@@ -24,7 +25,6 @@ body {
 /* Header styling */
 header {
     background-color: #ffffff;
-    padding: 40px 0;
     border-bottom: 1px solid #e1e1e1;
     text-align: center;
 }
